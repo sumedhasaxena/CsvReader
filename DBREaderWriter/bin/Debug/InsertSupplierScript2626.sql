@@ -1,0 +1,25 @@
+exec InsertSupplier 'INAUWINGARMENTS','AUWIN GARMENTS COMPANY (HK) LIMITED','AUWIN GARMENTS COMPANY (HK) LIMITED',2,'Unit B, 3/F Tower 5A, 8 Wui Cheun Rd, Kowloon','China','1010079913@qq.com','+86 20 8334 8898','Christina';
+exec InsertSupplier 'INDCP/','DCP / HIGH HOPE INT''L GROUP JIANGSU FOODSTUFFS IMP & EXP','DCP / HIGH HOPE INT''L GROUP JIANGSU FOODSTUFFS IMP & EXP',2,'91 Baixia Road, Nanjing 210006 c/o DCP Room 2513, Hejia Mansion, North Street 18#, Beitang District, Wuxi, Jiangsu 214041','China','adela@dcpchn.com','+86 25 8376 6032','Adela';
+exec InsertSupplier 'INBESTFUTURE','BEST FUTURE METAL & PLASTIC PRODUCT CO LIMITED','BEST FUTURE METAL & PLASTIC PRODUCT CO LIMITED',2,'','Hong Kong','','','';
+exec InsertSupplier 'INCREATONENTERPRISES','CREATON ENTERPRISES LTD','CREATON ENTERPRISES LTD',2,'','Hong Kong','','','';
+exec InsertSupplier 'INGOLDENALLIED','GOLDEN ALLIED LTD','GOLDEN ALLIED LTD',2,'No 15 Hengandong Rd, Sanhua District, Junan Town Shunde Area Foshan City, Guangdong 528329','China','goldenalliedlimited@outlook.com','+86 757 2550 2446','Ali';
+exec InsertSupplier 'INEISHOCO','EISHO CO LTD','EISHO CO LTD',2,'','China','','','';
+exec InsertSupplier 'INFABRIEKNL','FABRIEKNL','FABRIEKNL',2,'','Netherlands','','','';
+exec InsertSupplier 'INGOLDMINE','GOLD MINE GARMENTS CO LTD','GOLD MINE GARMENTS CO LTD',2,'','Thailand','','','';
+exec InsertSupplier 'INH&','H & D MANUFACTURER GROUP LTD','H & D MANUFACTURER GROUP LTD',2,'Room 606, 6th Floor, Nanya Commercial Building, MO 581 Xingnan Avenue Panyu District, Guangzhou City 511442','China','eric@hdmgroup.com.cn','+86 20 3112 0398','Eric';
+exec InsertSupplier 'INGUANGZHOUCOLORFUL','GUANGZHOU COLORFUL SMART CARD LIMITED','GUANGZHOU COLORFUL SMART CARD LIMITED',2,'','China','','','';
+exec InsertSupplier 'INHANGZHOUKIMHAIE','HANGZHOU KIMHAIE TRADING CO.,LTD.','HANGZHOU KIMHAIE TRADING CO.,LTD.',2,'F7 Senhe Business Plaza B, 238 Hanghailu Rd, Jiang Gan Qu 33 310020','China','luky@kimhaie.com','+86 571 8160 0326','Luky';
+exec InsertSupplier 'INHAININGLONGSHINE','HAINING LONGSHINE PIGMENT CO., LTD','HAINING LONGSHINE PIGMENT CO., LTD',2,'','China','','','';
+exec InsertSupplier 'INHIGHHOPE','HIGH HOPE AGLORY LIMITED','HIGH HOPE AGLORY LIMITED',2,'91 Baixia Road, Nanjing 210001','China','wch@aglory.com','+86 25 8469 1303','Charles Wu';
+exec InsertSupplier 'INHUHHOTLEDISI','HUHHOT LEDISI GARMENTS CO.LTD','HUHHOT LEDISI GARMENTS CO.LTD',2,'No 6 Rd Jin Hai Industrial Zone. Hui Min District Huhhot, Inner Mongolia','China','ledisi@vip.163.com','+86 471 382 1800','Sophia';
+exec InsertSupplier 'INHKWIDEWIN','HK WIDEWIN INDUSTRY LIMITED','HK WIDEWIN INDUSTRY LIMITED',2,'','China','','','';
+exec InsertSupplier 'INHUANYUFASHION','HUANYU FASHION','HUANYU FASHION',2,'Block A202 Fuyada BLD, Yinzhou District Ningbo','China','Eric@huanyu-fashion.com','','Eric';
+exec InsertSupplier 'ININDUSTRIECLOTHING','INDUSTRIE CLOTHING','INDUSTRIE CLOTHING',2,'55 Railway Parade, Marrickville, NSW 2204','Australia','','+61 2 95506550','';
+exec InsertSupplier 'INIMATECDIGITAL','IMATEC DIGITAL CO LTD','IMATEC DIGITAL CO LTD',2,'','China','','','';
+exec InsertSupplier 'ININNERMONGOLIA','INNER MONGOLIA FUJIA INDUSTRY AND TRADE CO.,LTD.','INNER MONGOLIA FUJIA INDUSTRY AND TRADE CO.,LTD.',2,'Huashengst Shaerqin Zone, Huhot Economic and Tech Dev, Huhot','China','rui.zhang@fujiacashmere.com','','Rui Zhang';
+exec InsertSupplier 'INJCINDUSTRIAL','JC INDUSTRIAL (HK)LIMITED','JC INDUSTRIAL (HK)LIMITED',2,'','Hong Kong','','','';
+exec InsertSupplier 'INKWUNWAI','KWUN WAI LOGISTICS LIMITED','KWUN WAI LOGISTICS LIMITED',2,'','Hong Kong','','','';
+exec InsertSupplier 'INLANBEIRGARMENT','LANBEIR GARMENT LTD','LANBEIR GARMENT LTD',2,'No. 7 East Shangxin Rd, Henjing Wuzhong Suzhou 215103','China','jason@lanbeir.cn','+86 512 3412 5483','Jason';
+exec InsertSupplier 'INLONEONLIGHTING','LONEON LIGHTING CO LTD','LONEON LIGHTING CO LTD',2,'','China','','','';
+exec InsertSupplier 'INLUTHAITEXTILE','LUTHAI TEXTILE CO.,LTD.','LUTHAI TEXTILE CO.,LTD.',2,'','China','','','';
+exec InsertSupplier 'INMAKER&','M

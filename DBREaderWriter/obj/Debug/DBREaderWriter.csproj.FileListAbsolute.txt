@@ -1,0 +1,9 @@
+C:\Workspace\DBREaderWriter\DBREaderWriter\bin\Debug\DBREaderWriter.exe.config
+C:\Workspace\DBREaderWriter\DBREaderWriter\obj\Debug\DBReaderWriter.exe
+C:\Workspace\DBREaderWriter\DBREaderWriter\obj\Debug\DBReaderWriter.pdb
+C:\Workspace\DBREaderWriter\DBREaderWriter\bin\Debug\DBReaderWriter.exe
+C:\Workspace\DBREaderWriter\DBREaderWriter\bin\Debug\DBReaderWriter.pdb
+C:\Workspace\DBREaderWriter\DBREaderWriter\bin\Debug\CsvHelper.dll
+C:\Workspace\DBREaderWriter\DBREaderWriter\bin\Debug\CsvHelper.pdb
+C:\Workspace\DBREaderWriter\DBREaderWriter\bin\Debug\CsvHelper.xml
+C:\Workspace\DBREaderWriter\DBREaderWriter\obj\Debug\DBREaderWriter.csprojResolveAssemblyReference.cache
